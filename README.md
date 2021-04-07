@@ -1,4 +1,4 @@
-- 🤔 I’m looking for help with open source python based projects 
+- 🤔 I’m looking to help with open source python based projects 
 - 📫 How to reach me: kgwfalloon@gmail.com
 - 😄 Pronouns: He/him
 
