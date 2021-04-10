@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-KierranFalloon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kierran-falloon/)](https://www.linkedin.com/in/kierran-falloon/)
+[![Linkedin Badge](https://img.shields.io/badge/-KierranFalloon-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kierran-falloon/)](https://www.linkedin.com/in/kierran-falloon/)
 
 [![Twitter](https://img.shields.io/twitter/url?label=%40narreik&style=social&url=https%3A%2F%2Ftwitter.com%2Fnarreik&link=https://twitter.com/narreik)](https://twitter.com/narreik)
 
