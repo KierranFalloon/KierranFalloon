@@ -4,7 +4,7 @@ My coding background is data manipulation and visualisation centric, but I am op
 ##
 #### Mainly use:
 
-<img src = "https://img.shields.io/badge/-Python-grey?style=flat&logo=Python" height = 25>  <img src = "https://img.shields.io/badge/-numpy-grey?style=flat&logo=numpy" height = 25>
+<img src = "https://img.shields.io/badge/-python-grey?style=flat&logo=Python" height = 25>  <img src = "https://img.shields.io/badge/-numpy-grey?style=flat&logo=numpy" height = 25>
 <img src = "https://img.shields.io/badge/-scipy-grey?style=flat&logo=scipy" height = 25>
 <img src = "https://img.shields.io/badge/-raspberry%20pi-grey?style=flat&logo=raspberry-pi" height = 25>
 
