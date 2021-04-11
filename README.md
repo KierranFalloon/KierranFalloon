@@ -1,10 +1,8 @@
-<h3 align="center">Physics student passionate about open-source code!</h3>
+##**Links**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/narreik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="narreik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kierran-falloon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kierran-falloon" height="30" width="40" /></a>
-</p>
+![Linkedin](https://img.shields.io/twitter/url?color=%230A66C2&label=Kierran&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkierran-falloon%2F)
+
+![twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=%40narreik&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkierran-falloon%2F)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KierranFalloon)
 
