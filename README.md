@@ -4,17 +4,17 @@ My coding background is data manipulation and visualisation centric, but I am op
 ##
 #### Mainly use:
 
-<img src = "https://img.shields.io/badge/-python-grey?style=flat&logo=Python" height = 25>  <img src = "https://img.shields.io/badge/-numpy-grey?style=flat&logo=numpy" height = 25>
-<img src = "https://img.shields.io/badge/-scipy-grey?style=flat&logo=scipy" height = 25>
-<img src = "https://img.shields.io/badge/-raspberry%20pi-grey?style=flat&logo=raspberry-pi" height = 25>
+<img src = "https://img.shields.io/badge/-python-grey?style=flat&logo=Python" height = 25>  <img src = "https://img.shields.io/badge/-NumPy-grey?style=flat&logo=numpy" height = 25>
+<img src = "https://img.shields.io/badge/-SciPy-grey?style=flat&logo=scipy" height = 25>
+<img src = "https://img.shields.io/badge/-Raspberry%20Pi-grey?style=flat&logo=raspberry-pi" height = 25>
 
-<img src = "https://img.shields.io/badge/-conda-grey?style=flat&logo=anaconda" height = 25>
+<img src = "https://img.shields.io/badge/-Conda-grey?style=flat&logo=anaconda" height = 25>
 
-<img src = "https://img.shields.io/badge/-git-grey?style=flat&logo=git" height = 25> <img src = "https://img.shields.io/badge/-github-grey?style=flat&logo=github" height = 25>
+<img src = "https://img.shields.io/badge/-git-grey?style=flat&logo=Git" height = 25> <img src = "https://img.shields.io/badge/-github-grey?style=flat&logo=GitHub" height = 25>
 
 #### I'm learning:
 
-<img src = "https://img.shields.io/badge/-Julia-grey?style=flat&logo=Julia" height = 25> <img src = "https://img.shields.io/badge/-docker-grey?style=flat&logo=docker" height = 25>
+<img src = "https://img.shields.io/badge/-Julia-grey?style=flat&logo=Julia" height = 25> <img src = "https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker" height = 25>
 
 
 ## Contact me!
