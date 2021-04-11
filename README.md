@@ -8,7 +8,7 @@ My coding background is data manipulation and visualisation centric, but I am op
 <img src = "https://img.shields.io/badge/-scipy-grey?style=flat&logo=scipy" height = 25>
 <img src = "https://img.shields.io/badge/-raspberry%20pi-grey?style=flat&logo=raspberry-pi" height = 25>
 
-<img src = "https://img.shields.io/badge/-Conda-grey?style=flat&logo=anaconda" height = 25>
+<img src = "https://img.shields.io/badge/-conda-grey?style=flat&logo=anaconda" height = 25>
 
 <img src = "https://img.shields.io/badge/-git-grey?style=flat&logo=git" height = 25> <img src = "https://img.shields.io/badge/-github-grey?style=flat&logo=github" height = 25>
 
