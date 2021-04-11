@@ -10,7 +10,7 @@ My coding background is data manipulation and visualisation centric, but I am op
 
 <img src = "https://img.shields.io/badge/-Conda-grey?style=flat&logo=anaconda" height = 25>
 
-<img src = "https://img.shields.io/badge/-git-grey?style=flat&logo=Git" height = 25> <img src = "https://img.shields.io/badge/-github-grey?style=flat&logo=GitHub" height = 25>
+<img src = "https://img.shields.io/badge/-Git-grey?style=flat&logo=Git" height = 25> <img src = "https://img.shields.io/badge/-GitHub-grey?style=flat&logo=GitHub" height = 25>
 
 #### I'm learning:
 
