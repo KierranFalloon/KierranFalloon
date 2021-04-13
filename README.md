@@ -14,7 +14,7 @@ My coding background is data manipulation and visualisation centric, but I am op
 
 #### I'm learning:
 
-<img src = "https://img.shields.io/badge/-Julia-grey?style=flat&logo=Julia" height = 25> <img src = "https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker" height = 25>
+<img src = "https://img.shields.io/badge/-Julia-grey?style=flat&logo=Julia" height = 25> <img src = "https://img.shields.io/badge/-Docker-grey?style=flat&logo=docker" height = 25> <img src = "https://img.shields.io/badge/-C%20Sharp-grey?style=flat&logo=c-sharp" height = 25>
 
 
 ## Contact me!
