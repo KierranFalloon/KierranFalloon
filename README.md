@@ -1,7 +1,7 @@
 ### I'm Kierran, a undergraduate student at the university of [Strathclyde](https://www.strath.ac.uk) studying physics with advanced research. 
 Currently working in computational biophysics, my coding background is software, simulation and data manipulation centric. I am open for collaboration on any open-source project and am keen to learn and improve my code as a whole!
 
-<a href="https://www.buymeacoffee.com/Kierran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M3ISOF2)
 
 ## Contact me!
 
