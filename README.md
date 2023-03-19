@@ -1,6 +1,8 @@
 ### I'm Kierran, a undergraduate student at the university of [Strathclyde](https://www.strath.ac.uk) studying physics with advanced research. 
 Currently working in computational biophysics, my coding background is software, simulation and data manipulation centric. I am open for collaboration on any open-source project and am keen to learn and improve my code as a whole!
 
+![KFs GitHub stats](https://github-readme-stats.vercel.app/api?username=KierranFalloon&count_private=true&show_icons=true&theme=transparent)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M3ISOF2)
 
 ## Contact me!
